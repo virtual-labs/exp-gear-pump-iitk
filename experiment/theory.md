@@ -3,7 +3,7 @@
 The gear pump was invented by Johannes Kepler in around 1600. Gear pump is considered as one of the most important type of pump among all hydraulic fluid transfer pumps. These types of pumps use gear mechanism for transportation of fluids. Gear pumps fall under the category of positive displacement pumps (rotatory pumps). In general gear pump encloses a fixed volume of fluid by the help of interlocking cogs or by meshing of gears and applies mechanical force/pressure energy on that entrapped volume. The pumping action is a continuous cyclic process which helps to transport the fluid which makes it a non-pulsating or pulse-free flow pump. Even though the pump is considered to be high pressure pump, its size is relatively small compared to other hydraulic pumps. <br>
 <b>Parts of a Gear Pump</b><br>
 <image src="images/image2.PNG"><br>
-<b>	Driver Gear<b>
+<b>	Driver Gear</b><br>
 The driver gear is connected to the prime mover. It rotates using power from the prime mover.<br>
 <b>	Driven Gear or Idle Gear</b><br>
 The driven gear is forged with the drive gear, and the driver rotates the gear.<br>
