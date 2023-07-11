@@ -10,7 +10,7 @@
 9. Repeat the procedure for 1 kg/cm<sup>2</sup> incremental by closing the delivery valve gradually, (i.e. 1.0, 1.5, 2.0, 2.5 and 3.0 kg/cm<sup>2</sup>).<br>
 10. Switch off the power supply after opening the delivery valve completely.<br>
 
-Observations –<br>
+<b>Observations –</b><br>
 1. Measuring Area in collecting tank = 0.3 x 0.3 m<sup>2</sup>  <br>   	  
 2. Datum head, Z = 0.3 m <br>
 3. Density of oil, ρ = 860 kg/m<sup>3</sup><br>
