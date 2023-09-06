@@ -68,12 +68,98 @@
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
-    },{
+    },
+    {
       "question": "5) Rotation of gears in internal gear pump is in ___________:",
       "answers": {
         "a": "Independent of each other",
         "b": "Opposite direction",
         "c": "Same direction",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "6) Rotation of gears in external gear pump is in ___________:",
+      "answers": {
+        "a": "Independent of each other",
+        "b": "Opposite direction",
+        "c": "Same direction",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "7) Internal leakage in internal gear pump is caused due to _____________:",
+      "answers": {
+        "a": "Less tolerance level between the meshing surfaces",
+        "b": "More tolerance level between the meshing surfaces",
+        "c": "No tolerance between the meshing surfaces",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "8) Relation between pressure and overall efficiency for a gear pump is:",
+      "answers": {
+        "a": "Pressure increases, overall efficiency decreases",
+        "b": "Pressure increases, overall efficiency increases",
+        "c": "Overall efficiency is independent of pressure",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "9) Continuous discharge of liquid is achieved in Gar pump by:",
+      "answers": {
+        "a": "Increasing Diameter of gears",
+        "b": "Decreasing size of gears",
+        "c": "Increasing number of teeth",
+        "d": "Decreasing number of teeth"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "10) How does the fluid flow in internal gear pump?",
+      "answers": {
+        "a": "fluid enters the suction side between rotor, which is a small exterior gear and idler which is a large interior gear",
+        "b": "fluid enters the suction side between rotor and idler which rotate in different directions",
+        "c": "fluid enters the suction side between rotor, which is a large exterior gear and idler which is a small interior gear",
         "d": "None of the above"
       },
       "explanations": {
