@@ -27,7 +27,7 @@ As shown in Fig. 3, Gear pump functions in three steps to pump viscous liquid wh
 <b>Types of Gear Pump</b><br>
 There are mainly two types of gear Pumps classified on basis of their design:<br>
 1	Internal Gear Pump<br>
-2	External Gear Pump<br>
+2	External Gear Pump<br><br>
 <b>	Internal Gear Pump</b><br><br>
 <image src="images/image4.PNG"><br><br>
 As depicted in Fig. 4, the inner gear is smaller and has outer teeth and the outer gear is the larger gear and has inner teeth. As the two gear teeth mesh together a vacuum is created causing liquid to enter between the gap. The trapped fluid then travels to the outlet to be discharged.<br><br>
