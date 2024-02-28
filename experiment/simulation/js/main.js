@@ -307,7 +307,7 @@ function fillTankFront(){
     waterTankFront.appendChild(animateElement)
     animateElement.beginElement();
     setTimeout(function() {
-        document.getElementById("steps").innerHTML = "Now, click on electric meter to get the time for 3 revolution of electric meter. "
+        document.getElementById("steps").innerHTML = "Now, click on electric meter to get the time for 10 revolution of electric meter. "
         // if(valvePositioning.value == 4){
         //     document.getElementById("steps").innerHTML = "Take note of the current time on the timer 1 and use the provided data to calculate the efficiency."
         // }valvePositioning.disabled=false
@@ -469,17 +469,8 @@ function resetTimer() {
 let clickEnabled = false;
 
 function rotateElectricMeter() {
-    // Generate a unique identifier for the new style rule
     const animationName = `rotate_${Date.now()}`;
 
-    // var reading = 0;
-
-    // for (let i = 0; i < 3 ; i++) {
-    //     reading+=1
-    //     
-    // }
-  
-    // Insert a new keyframes rule with the unique identifier
     const styleSheet = document.styleSheets[0];
     styleSheet.insertRule(`
       @keyframes ${animationName} {
@@ -534,33 +525,33 @@ function rotateElectricMeter() {
         }
     }
   });
-  document.getElementById("part1").addEventListener('click', function(){
-    if(clickEnabled){
-        rotateElectricMeter()
-        if(valvePositioning.value==1){
-            timer2(28,"00")
-        }if(valvePositioning.value==2){
-            timer2(27,"00")
-        }if(valvePositioning.value==3){
-            timer2(26,"00")
-        }if(valvePositioning.value==4){
-            timer2(21,"00")
-        }        
-    }
-  });
-  document.getElementById("part2").addEventListener('click', function(){
-    if(clickEnabled){
-        rotateElectricMeter()
-        if(valvePositioning.value==1){
-            timer2(28,"00")
-        }if(valvePositioning.value==2){
-            timer2(27,"00")
-        }if(valvePositioning.value==3){
-            timer2(26,"00")
-        }if(valvePositioning.value==4){
-            timer2(21,"00")
-        }    }
-  });
+//   document.getElementById("part1").addEventListener('click', function(){
+//     if(clickEnabled){
+//         rotateElectricMeter()
+//         if(valvePositioning.value==1){
+//             timer2(28,"00")
+//         }if(valvePositioning.value==2){
+//             timer2(27,"00")
+//         }if(valvePositioning.value==3){
+//             timer2(26,"00")
+//         }if(valvePositioning.value==4){
+//             timer2(21,"00")
+//         }        
+//     }
+//   });
+//   document.getElementById("part2").addEventListener('click', function(){
+//     if(clickEnabled){
+//         rotateElectricMeter()
+//         if(valvePositioning.value==1){
+//             timer2(28,"00")
+//         }if(valvePositioning.value==2){
+//             timer2(27,"00")
+//         }if(valvePositioning.value==3){
+//             timer2(26,"00")
+//         }if(valvePositioning.value==4){
+//             timer2(21,"00")
+//         }    }
+//   });
   
   let [milliseconds2,seconds2] = [0,0];
   let int2 = null;
