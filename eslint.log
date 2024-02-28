@@ -1,0 +1,21 @@
+
+/home/runner/work/exp-gear-pump-iitk/exp-gear-pump-iitk/experiment/simulation/js/calculation.js
+   43:10  warning  'calculate' is defined but never used        no-unused-vars
+   59:14  warning  'checkYourResult' is defined but never used  no-unused-vars
+  272:17  warning  'confetti' is not defined                    no-undef
+  284:14  warning  'exportToExcel' is defined but never used    no-unused-vars
+  285:18  warning  'XLSX' is not defined                        no-undef
+  302:32  warning  'XLSX' is not defined                        no-undef
+  303:9   warning  'XLSX' is not defined                        no-undef
+  320:32  warning  'XLSX' is not defined                        no-undef
+  321:9   warning  'XLSX' is not defined                        no-undef
+  324:9   warning  'XLSX' is not defined                        no-undef
+
+/home/runner/work/exp-gear-pump-iitk/exp-gear-pump-iitk/experiment/simulation/js/main.js
+    5:5   warning  'svg' is assigned a value but never used            no-unused-vars
+   40:10  warning  'power' is defined but never used                   no-unused-vars
+  207:10  warning  'updateValvePositioning' is defined but never used  no-unused-vars
+  338:10  warning  'purzeAction' is defined but never used             no-unused-vars
+
+✖ 14 problems (0 errors, 14 warnings)
+
