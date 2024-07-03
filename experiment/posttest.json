@@ -10,10 +10,10 @@
         "d": "unpredictable"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is remains constant with increase in pressure. Gear pumps are positive displacement pumps, which means their flow rate remains relatively constant regardless of the pressure increase. This makes them highly reliable for applications requiring steady flow rates",
+        "b": "The correct answer is remains constant with increase in pressure. Gear pumps are positive displacement pumps, which means their flow rate remains relatively constant regardless of the pressure increase. This makes them highly reliable for applications requiring steady flow rates",
+        "c": "The correct answer is remains constant with increase in pressure. Gear pumps are positive displacement pumps, which means their flow rate remains relatively constant regardless of the pressure increase. This makes them highly reliable for applications requiring steady flow rates",
+        "d": "The correct answer is remains constant with increase in pressure. Gear pumps are positive displacement pumps, which means their flow rate remains relatively constant regardless of the pressure increase. This makes them highly reliable for applications requiring steady flow rates"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -27,10 +27,10 @@
         "d": "All of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is liquid is discharged due to the positive displacement. Positive displacement pumps operate by trapping a fixed volume of liquid and then displacing that volume into the discharge pipe, ensuring a consistent and steady flow rate.",
+        "b": "The correct answer is liquid is discharged due to the positive displacement. Positive displacement pumps operate by trapping a fixed volume of liquid and then displacing that volume into the discharge pipe, ensuring a consistent and steady flow rate.",
+        "c": "The correct answer is liquid is discharged due to the positive displacement. Positive displacement pumps operate by trapping a fixed volume of liquid and then displacing that volume into the discharge pipe, ensuring a consistent and steady flow rate.",
+        "d": "The correct answer is liquid is discharged due to the positive displacement. Positive displacement pumps operate by trapping a fixed volume of liquid and then displacing that volume into the discharge pipe, ensuring a consistent and steady flow rate."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -44,10 +44,10 @@
         "d": "Screw pump"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is centrifugal pump. Unlike positive displacement pumps, centrifugal pumps use dynamic action to impart velocity to the fluid and convert that velocity into flow, which means the flow rate can vary with changes in pressure.",
+        "b": "The correct answer is centrifugal pump. Unlike positive displacement pumps, centrifugal pumps use dynamic action to impart velocity to the fluid and convert that velocity into flow, which means the flow rate can vary with changes in pressure.",
+        "c": "The correct answer is centrifugal pump. Unlike positive displacement pumps, centrifugal pumps use dynamic action to impart velocity to the fluid and convert that velocity into flow, which means the flow rate can vary with changes in pressure.",
+        "d": "The correct answer is centrifugal pump. Unlike positive displacement pumps, centrifugal pumps use dynamic action to impart velocity to the fluid and convert that velocity into flow, which means the flow rate can vary with changes in pressure."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -61,10 +61,10 @@
         "d": "Air"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is paint. Gear pumps are ideal for pumping high-viscosity fluids like paint, as they provide a steady flow and can handle thick, sticky substances effectively without significant loss of efficiency.",
+        "b": "The correct answer is paint. Gear pumps are ideal for pumping high-viscosity fluids like paint, as they provide a steady flow and can handle thick, sticky substances effectively without significant loss of efficiency.",
+        "c": "The correct answer is paint. Gear pumps are ideal for pumping high-viscosity fluids like paint, as they provide a steady flow and can handle thick, sticky substances effectively without significant loss of efficiency.",
+        "d": "The correct answer is paint. Gear pumps are ideal for pumping high-viscosity fluids like paint, as they provide a steady flow and can handle thick, sticky substances effectively without significant loss of efficiency."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -78,10 +78,10 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is same direction. In an internal gear pump, the gears rotate in the same direction, with one gear being an internal gear that meshes with a smaller external gear, effectively moving the fluid through the pump.",
+        "b": "The correct answer is same direction. In an internal gear pump, the gears rotate in the same direction, with one gear being an internal gear that meshes with a smaller external gear, effectively moving the fluid through the pump.",
+        "c": "The correct answer is same direction. In an internal gear pump, the gears rotate in the same direction, with one gear being an internal gear that meshes with a smaller external gear, effectively moving the fluid through the pump.",
+        "d": "The correct answer is same direction. In an internal gear pump, the gears rotate in the same direction, with one gear being an internal gear that meshes with a smaller external gear, effectively moving the fluid through the pump."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -95,10 +95,10 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is opposite direction. In an external gear pump, two external gears mesh together and rotate in opposite directions, creating a void that draws in fluid and then displaces it as the gears continue to rotate.",
+        "b": "The correct answer is opposite direction. In an external gear pump, two external gears mesh together and rotate in opposite directions, creating a void that draws in fluid and then displaces it as the gears continue to rotate.",
+        "c": "The correct answer is opposite direction. In an external gear pump, two external gears mesh together and rotate in opposite directions, creating a void that draws in fluid and then displaces it as the gears continue to rotate.",
+        "d": "The correct answer is opposite direction. In an external gear pump, two external gears mesh together and rotate in opposite directions, creating a void that draws in fluid and then displaces it as the gears continue to rotate."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -112,10 +112,10 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is more tolerance level between the meshing surfaces. Internal leakage occurs when there is excessive clearance (tolerance) between the gears and the housing, allowing fluid to leak back and reducing the efficiency of the pump.",
+        "b": "The correct answer is more tolerance level between the meshing surfaces. Internal leakage occurs when there is excessive clearance (tolerance) between the gears and the housing, allowing fluid to leak back and reducing the efficiency of the pump.",
+        "c": "The correct answer is more tolerance level between the meshing surfaces. Internal leakage occurs when there is excessive clearance (tolerance) between the gears and the housing, allowing fluid to leak back and reducing the efficiency of the pump.",
+        "d": "The correct answer is more tolerance level between the meshing surfaces. Internal leakage occurs when there is excessive clearance (tolerance) between the gears and the housing, allowing fluid to leak back and reducing the efficiency of the pump."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -129,10 +129,10 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is pressure increases, overall efficiency decreases. As the pressure increases, the overall efficiency of a gear pump tends to decrease due to increased internal leakage and greater mechanical losses.",
+        "b": "The correct answer is pressure increases, overall efficiency decreases. As the pressure increases, the overall efficiency of a gear pump tends to decrease due to increased internal leakage and greater mechanical losses.",
+        "c": "The correct answer is pressure increases, overall efficiency decreases. As the pressure increases, the overall efficiency of a gear pump tends to decrease due to increased internal leakage and greater mechanical losses.",
+        "d": "The correct answer is pressure increases, overall efficiency decreases. As the pressure increases, the overall efficiency of a gear pump tends to decrease due to increased internal leakage and greater mechanical losses."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -146,10 +146,10 @@
         "d": "Decreasing number of teeth"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is increasing number of teeth. By increasing the number of teeth on the gears, the pump can achieve a smoother and more continuous discharge of liquid, reducing pulsations and ensuring a steady flow.",
+        "b": "The correct answer is increasing number of teeth. By increasing the number of teeth on the gears, the pump can achieve a smoother and more continuous discharge of liquid, reducing pulsations and ensuring a steady flow.",
+        "c": "The correct answer is increasing number of teeth. By increasing the number of teeth on the gears, the pump can achieve a smoother and more continuous discharge of liquid, reducing pulsations and ensuring a steady flow.",
+        "d": "The correct answer is increasing number of teeth. By increasing the number of teeth on the gears, the pump can achieve a smoother and more continuous discharge of liquid, reducing pulsations and ensuring a steady flow."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -163,10 +163,10 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is fluid enters the suction side between rotor, which is a large exterior gear and idler which is a small interior gear. In an internal gear pump, the large exterior gear (rotor) and the small interior gear (idler) create a void on the suction side that draws in the fluid and then displaces it as the gears rotate, ensuring efficient pumping action.",
+        "b": "The correct answer is fluid enters the suction side between rotor, which is a large exterior gear and idler which is a small interior gear. In an internal gear pump, the large exterior gear (rotor) and the small interior gear (idler) create a void on the suction side that draws in the fluid and then displaces it as the gears rotate, ensuring efficient pumping action.",
+        "c": "The correct answer is fluid enters the suction side between rotor, which is a large exterior gear and idler which is a small interior gear. In an internal gear pump, the large exterior gear (rotor) and the small interior gear (idler) create a void on the suction side that draws in the fluid and then displaces it as the gears rotate, ensuring efficient pumping action.",
+        "d": "The correct answer is fluid enters the suction side between rotor, which is a large exterior gear and idler which is a small interior gear. In an internal gear pump, the large exterior gear (rotor) and the small interior gear (idler) create a void on the suction side that draws in the fluid and then displaces it as the gears rotate, ensuring efficient pumping action."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
