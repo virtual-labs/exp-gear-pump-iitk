@@ -1,9 +1,9 @@
 <b> Working of Internal gear pump<b></br>
-<image src="images/Picture6-1.png"><br><br>
+<image src="images/Picture6.png"><br><br>
 Animation should be such that a stream of oil going into the pump through “Fluid In” and the rotating gears suck in the oil and oil is trapped in the gap between the teeth of the larger gear <br>
 And finally oil flows out of the “fluid Out”<br>
 <b> Working of External Gear pump<b></br>
-<image src="images/Picture7-1.png"><br><br>
+<image src="images/Picture7.png"><br><br>
 Animation should be such that a stream of oil going into the pump through “Inlet” and the rotating gears suck in the oil and oil is trapped in the gap between the teeth and the outer housing and finally oil flows out of the “Outlet”<br>
 
 <b>Youtube Link</b><br>
