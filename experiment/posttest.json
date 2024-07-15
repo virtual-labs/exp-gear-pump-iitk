@@ -24,7 +24,7 @@
         "a": "Dynamic action of liquid",
         "b": "Liquid is discharged due to the positive displacement ",
         "c": "Positive velocity",
-        "d": "All of the above"
+        "d": "All of these"
       },
       "explanations": {
         "a": "The correct answer is liquid is discharged due to the positive displacement. Positive displacement pumps operate by trapping a fixed volume of liquid and then displacing that volume into the discharge pipe, ensuring a consistent and steady flow rate.",
@@ -75,7 +75,7 @@
         "a": "Independent of each other",
         "b": "Opposite direction",
         "c": "Same direction",
-        "d": "None of the above"
+        "d": "None of these"
       },
       "explanations": {
         "a": "The correct answer is same direction. In an internal gear pump, the gears rotate in the same direction, with one gear being an internal gear that meshes with a smaller external gear, effectively moving the fluid through the pump.",
@@ -92,7 +92,7 @@
         "a": "Independent of each other",
         "b": "Opposite direction",
         "c": "Same direction",
-        "d": "None of the above"
+        "d": "None of these"
       },
       "explanations": {
         "a": "The correct answer is opposite direction. In an external gear pump, two external gears mesh together and rotate in opposite directions, creating a void that draws in fluid and then displaces it as the gears continue to rotate.",
@@ -109,7 +109,7 @@
         "a": "Less tolerance level between the meshing surfaces",
         "b": "More tolerance level between the meshing surfaces",
         "c": "No tolerance between the meshing surfaces",
-        "d": "None of the above"
+        "d": "None of these"
       },
       "explanations": {
         "a": "The correct answer is more tolerance level between the meshing surfaces. Internal leakage occurs when there is excessive clearance (tolerance) between the gears and the housing, allowing fluid to leak back and reducing the efficiency of the pump.",
@@ -126,7 +126,7 @@
         "a": "Pressure increases, overall efficiency decreases",
         "b": "Pressure increases, overall efficiency increases",
         "c": "Overall efficiency is independent of pressure",
-        "d": "None of the above"
+        "d": "None of these"
       },
       "explanations": {
         "a": "The correct answer is pressure increases, overall efficiency decreases. As the pressure increases, the overall efficiency of a gear pump tends to decrease due to increased internal leakage and greater mechanical losses.",
@@ -160,7 +160,7 @@
         "a": "fluid enters the suction side between rotor, which is a small exterior gear and idler which is a large interior gear",
         "b": "fluid enters the suction side between rotor and idler which rotate in different directions",
         "c": "fluid enters the suction side between rotor, which is a large exterior gear and idler which is a small interior gear",
-        "d": "None of the above"
+        "d": "None of these"
       },
       "explanations": {
         "a": "The correct answer is fluid enters the suction side between rotor, which is a large exterior gear and idler which is a small interior gear. In an internal gear pump, the large exterior gear (rotor) and the small interior gear (idler) create a void on the suction side that draws in the fluid and then displaces it as the gears rotate, ensuring efficient pumping action.",
