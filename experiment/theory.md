@@ -21,13 +21,13 @@ A safety valve or release valves are installed on the discharge side so that the
 <image src="images/image3.PNG"><br><br>
 A gear pump belongs to the positive displacement pump category with a continuous delivery rotary pump. At the inlet side a zero suction is created by converting mechanical energy into fluid energy with the help of gear meshings. The space between the gear meshing, carries viscous liquids towards the surface of the wall and which is then pushed to the outlet. Gear pumps are commonly used for pumping high viscosity fluids such as oil, paints, resins or foodstuffs. They are preferred in any application where accurate dosing or high pressure output is required.<br><br>
 As shown in Fig. 3, Gear pump functions in three steps to pump viscous liquid which are described as follows:<br>
-1)	As the gear rotate in opposite direction, a separation of liquid takes place at the inlet port of the pump<br>
-2)	The separation of liquid creates voids and suction which gets filled by liquid
-3)	With help of rotating mechanism of gears, only displacement of liquid takes place and fluid gets discharged<br><br>
+1.	As the gear rotate in opposite direction, a separation of liquid takes place at the inlet port of the pump<br>
+2.	The separation of liquid creates voids and suction which gets filled by liquid
+3.	With help of rotating mechanism of gears, only displacement of liquid takes place and fluid gets discharged<br><br>
 <b>Types of Gear Pump</b><br>
 There are mainly two types of gear Pumps classified on basis of their design:<br>
-1)	Internal Gear Pump<br>
-2)	External Gear Pump<br><br>
+1.	Internal Gear Pump<br>
+2.	External Gear Pump<br><br>
 <b>	Internal Gear Pump</b><br><br>
 <image src="images/image4.PNG"><br><br>
 As depicted in Fig. 4, the inner gear is smaller and has outer teeth and the outer gear is the larger gear and has inner teeth. As the two gear teeth mesh together a vacuum is created causing liquid to enter between the gap. The trapped fluid then travels to the outlet to be discharged.<br><br>
