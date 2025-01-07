@@ -11,29 +11,7 @@
 10. Switch off the power supply after opening the delivery valve completely.<br><br>
 
 <b>Formulae – <b><br>
-1. Total Head, H=[P + (V)/760] × 10<sup>5<sup>/ρg+Z <br>
-Where, P = Pressure gauge reading in Kg/cm<sup>2<sup> <br>
-V = Vacuum gauge reading in mm of Hg <br>
-For V, 1 mm of Hg/760 = 1 bar <br>
-For P  1 bar = 1 Kg/cm<sup>2<sup> <br><br>
-
-2. Discharge, Q=((A×h)/t) <br>
-A = area of the collecting tank in m<sup>2<sup> <br>
-h = rise of oil level taken in meters (say 0.1 m or 10 cm) <br>
-t = time taken for rise of water level to height ‘R’ in seconds <br><br>
-
-3. Output in Watts, OP=  (ρ×g×Q×H)/1000 <br>
-ρ = density of oil = 860 Kg/m<sup>3<sup> <br>
-g = acceleration due to gravity = 9.81 m/s<sup>2<sup> <br><br>
-
-4. Output in Kw, IP=  (n×3600×η<sub>m<sub>)/(E<sub>c<sub> ×T) <br>
-n = number of revolutions taken in energy meter = 3 <br>
-η<sub>m<sub> = efficiency of motor = 0.80 <br>
-E<sub>c<sub> = energy meter constant in Rev /kWh = 1200 Rev / kWh <br>
-T = time required to complete n revolution in sec <br><br>
-
-5.  Efficiency, η=  OP/IP × 100 <br><br>
-
+<image src="images/formula.PNG"> <br><br>
 
 <b>Observations –</b><br>
 1. Measuring Area in collecting tank = 0.3 x 0.3 m<sup>2</sup>  <br>   	  
