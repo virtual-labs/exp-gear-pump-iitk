@@ -24,7 +24,7 @@
         "a": "Dynamic action of liquid",
         "b": "Liquid is discharged due to the positive displacement ",
         "c": "Positive velocity",
-        "d": "All of these"
+        "d": "Positive Pressure"
       },
       "explanations": {
         "a": "The correct answer is liquid is discharged due to the positive displacement. Positive displacement pumps operate by trapping a fixed volume of liquid and then displacing that volume into the discharge pipe, ensuring a consistent and steady flow rate.",
@@ -75,7 +75,7 @@
         "a": "Independent of each other",
         "b": "Opposite direction",
         "c": "Same direction",
-        "d": "None of these"
+        "d": "Either same or opposite"
       },
       "explanations": {
         "a": "The correct answer is same direction. In an internal gear pump, the gears rotate in the same direction, with one gear being an internal gear that meshes with a smaller external gear, effectively moving the fluid through the pump.",
@@ -92,7 +92,7 @@
         "a": "Independent of each other",
         "b": "Opposite direction",
         "c": "Same direction",
-        "d": "None of these"
+        "d": "Either same or opposite"
       },
       "explanations": {
         "a": "The correct answer is opposite direction. In an external gear pump, two external gears mesh together and rotate in opposite directions, creating a void that draws in fluid and then displaces it as the gears continue to rotate.",
@@ -126,7 +126,7 @@
         "a": "Pressure increases, overall efficiency decreases",
         "b": "Pressure increases, overall efficiency increases",
         "c": "Overall efficiency is independent of pressure",
-        "d": "None of these"
+        "d": "Pressure decrease, overall efficiency decreases"
       },
       "explanations": {
         "a": "The correct answer is pressure increases, overall efficiency decreases. As the pressure increases, the overall efficiency of a gear pump tends to decrease due to increased internal leakage and greater mechanical losses.",

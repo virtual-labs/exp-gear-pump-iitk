@@ -7,7 +7,7 @@
         "a": "Pistons",
         "b": "Buckets",
         "c": "Meshing of gears",
-        "d": "None of these"
+        "d": "Crank shaft"
       },
       "explanations": {
         "a": "The correct answer is meshing of gears. A gear pump operates by using the interlocking of gears to move fluid. As the gears rotate, they create a vacuum that draws fluid into the pump and then displaces it by the meshing of the gears, pushing it out through the outlet.",
@@ -24,7 +24,7 @@
         "a": "Heat conservation",
         "b": "Mass conservation",
         "c": "Momentum conservation",
-        "d": "None of these"
+        "d": "Energy conservation"
       },
       "explanations": {
         "a": "The correct answer is momentum conservation. Turbomachinery, which includes devices like turbines, compressors, and pumps, operates based on the principle of momentum conservation. This principle states that the momentum of a fluid is conserved as it interacts with the machinery, allowing the transfer of energy between the fluid and the mechanical components.",
@@ -109,7 +109,7 @@
         "a": "Zero pulsating",
         "b": "Sinusoidal",
         "c": "Intermittent",
-        "d": "None of these"
+        "d": "Linear"
       },
       "explanations": {
         "a": "The correct answer is zero pulsating. Gear pumps deliver a smooth, continuous flow with very minimal pulsation, making them suitable for applications requiring a steady discharge without fluctuations.",
