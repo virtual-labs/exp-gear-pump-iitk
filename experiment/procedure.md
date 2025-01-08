@@ -12,14 +12,6 @@
 
 <b>Formulae – <b><br>
 <image src="images/formula.PNG"> <br><br>
-
-<b>Observations –</b><br>
-1. Measuring Area in collecting tank = 0.3 x 0.3 m<sup>2</sup>  <br>   	  
-2. Datum head, Z = 0.3 m <br>
-3. Density of oil, ρ = 860 kg/m<sup>3</sup><br>
-4. Energy meter constant in Rev /kWh, E<sup>c</sup> = 1200 Rev / kWh<br>
-5. Efficiency of motor, η<sup>m</sup>  = 0.80<br>
-6. Number of revolutions taken in energy meter, n = 3<br>
 <image src="images/imagep1.PNG"> <br><br>
 
 Graph – Draw graphs of Discharge vs Head, Output Power, Efficiency.
