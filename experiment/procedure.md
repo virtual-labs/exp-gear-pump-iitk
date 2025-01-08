@@ -12,6 +12,4 @@
 
 <b>Formulae – <b><br>
 <image src="images/formula.PNG"> <br><br>
-<image src="images/imagep1.PNG"> <br><br>
-
 Graph – Draw graphs of Discharge vs Head, Output Power, Efficiency.
