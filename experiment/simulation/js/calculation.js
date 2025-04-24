@@ -58,209 +58,229 @@ function calculate(){
 
     function checkYourResult(){
         let flag=true
-        if(t1.querySelector("input").value!=0.5){
-            t1.querySelector("input").style.color="red"
-            flag=false
-        }
 
-        if(t2.querySelector("input").value!=160){
-            t2.querySelector("input").style.color="red"
-            flag=false
+        const expectedValues = [
+            0.5, 160, 0.3, 19, 28, 1, 160, 0.3, 20, 27,
+            1.5, 160, 0.3, 20, 26, 2, 160, 0.3, 21, 21,
+            8.7220, 0.000473684, 0.2571, 0.0345, 13.397,
+            14.6485, 0.00045, 0.2667, 0.0550, 20.612,
+            20.5751, 0.00045, 0.2769, 0.0772, 27.879,
+            26.5016, 0.000428571, 0.3429, 0.0947, 27.623
+        ];
+    
+        for (let i = 1; i <= expectedValues.length; i++) {
+            const input = document.querySelector(`#t${i} input`);
+            const val = input.value.toLowerCase();
+    
+            if (!val.includes('e') && val != expectedValues[i - 1]) {
+                input.style.color = "red";
+                flag = false;
+            }
         }
-        if(t3.querySelector("input").value!=0.3){
-            t3.querySelector("input").style.color="red"
-            flag=false
-        }
+    
+        // if(t1.querySelector("input").value!=0.5){
+        //     t1.querySelector("input").style.color="red"
+        //     flag=false
+        // }
 
-        if(t4.querySelector("input").value!=19){
-            t4.querySelector("input").style.color="red"
-            flag=false
-        }
-        if(t5.querySelector("input").value!=28){
-            t5.querySelector("input").style.color="red"
-            flag=false
-        }
+        // if(t2.querySelector("input").value!=160){
+        //     t2.querySelector("input").style.color="red"
+        //     flag=false
+        // }
+        // if(t3.querySelector("input").value!=0.3){
+        //     t3.querySelector("input").style.color="red"
+        //     flag=false
+        // }
 
-        if(t6.querySelector("input").value!=1){
-            t6.querySelector("input").style.color="red"
-            flag=false
-        }
+        // if(t4.querySelector("input").value!=19){
+        //     t4.querySelector("input").style.color="red"
+        //     flag=false
+        // }
+        // if(t5.querySelector("input").value!=28){
+        //     t5.querySelector("input").style.color="red"
+        //     flag=false
+        // }
 
-        if(t7.querySelector("input").value!=160 ){
-            t7.querySelector("input").style.color = "red"
-            flag= true
-        }
-        if(t8.querySelector("input").value!=0.3 ){
-            t8.querySelector("input").style.color = "red"
-            flag= true
-        }
+        // if(t6.querySelector("input").value!=1){
+        //     t6.querySelector("input").style.color="red"
+        //     flag=false
+        // }
+
+        // if(t7.querySelector("input").value!=160 ){
+        //     t7.querySelector("input").style.color = "red"
+        //     flag= true
+        // }
+        // if(t8.querySelector("input").value!=0.3 ){
+        //     t8.querySelector("input").style.color = "red"
+        //     flag= true
+        // }
        
 
-        if(t9.querySelector("input").value!=20 ){
-            t9.querySelector("input").style.color = "red"
-            flag= true
-        }
+        // if(t9.querySelector("input").value!=20 ){
+        //     t9.querySelector("input").style.color = "red"
+        //     flag= true
+        // }
 
 
-        if(t10.querySelector("input").value!=27){
-            t10.querySelector("input").style.color="red"
-            flag=false
-        }
+        // if(t10.querySelector("input").value!=27){
+        //     t10.querySelector("input").style.color="red"
+        //     flag=false
+        // }
 
-        if(t11.querySelector("input").value!=1.5){
-            t11.querySelector("input").style.color="red"
-            flag=false
-        }
-        if(t12.querySelector("input").value!=160){
-            t12.querySelector("input").style.color="red"
-            flag=false
-        }
+        // if(t11.querySelector("input").value!=1.5){
+        //     t11.querySelector("input").style.color="red"
+        //     flag=false
+        // }
+        // if(t12.querySelector("input").value!=160){
+        //     t12.querySelector("input").style.color="red"
+        //     flag=false
+        // }
 
-        if(t13.querySelector("input").value!=0.3){
-            t13.querySelector("input").style.color="red"
-            flag=false
-        }
-        if(t14.querySelector("input").value!=20){
-            t14.querySelector("input").style.color="red"
-            flag=false
-        }
+        // if(t13.querySelector("input").value!=0.3){
+        //     t13.querySelector("input").style.color="red"
+        //     flag=false
+        // }
+        // if(t14.querySelector("input").value!=20){
+        //     t14.querySelector("input").style.color="red"
+        //     flag=false
+        // }
 
-        if(t15.querySelector("input").value!=26){
-            t15.querySelector("input").style.color="red"
-            flag=false
-        }
+        // if(t15.querySelector("input").value!=26){
+        //     t15.querySelector("input").style.color="red"
+        //     flag=false
+        // }
 
-        if(t16.querySelector("input").value!=2){
-            t16.querySelector("input").style.color="red"
-            flag=false
-        }
+        // if(t16.querySelector("input").value!=2){
+        //     t16.querySelector("input").style.color="red"
+        //     flag=false
+        // }
 
-        if(t17.querySelector("input").value!=160){
-            t17.querySelector("input").style.color="red"
-            flag=false
-        }
+        // if(t17.querySelector("input").value!=160){
+        //     t17.querySelector("input").style.color="red"
+        //     flag=false
+        // }
 
-        if(t18.querySelector("input").value!=0.3){
-            t18.querySelector("input").style.color="red"
-            flag=false
-        }
+        // if(t18.querySelector("input").value!=0.3){
+        //     t18.querySelector("input").style.color="red"
+        //     flag=false
+        // }
 
-        if(t19.querySelector("input").value!=21){
-            t19.querySelector("input").style.color="red"
-            flag=false
-        }
+        // if(t19.querySelector("input").value!=21){
+        //     t19.querySelector("input").style.color="red"
+        //     flag=false
+        // }
 
-        if(t20.querySelector("input").value!=21){
-            t20.querySelector("input").style.color="red"
-            flag=false
-        }
-        if(t21.querySelector("input").value!=8.7220){
-            t21.querySelector("input").style.color="red"
-            flag=false
-        }
+        // if(t20.querySelector("input").value!=21){
+        //     t20.querySelector("input").style.color="red"
+        //     flag=false
+        // }
+        // if(t21.querySelector("input").value!=8.7220){
+        //     t21.querySelector("input").style.color="red"
+        //     flag=false
+        // }
 
-        if(t22.querySelector("input").value!=0.000473684){
-            t22.querySelector("input").style.color="red"
-            flag=false
-        }
-        if(t23.querySelector("input").value!=0.2571){
-            t23.querySelector("input").style.color="red"
-            flag=false
-        }
+        // if(t22.querySelector("input").value!=0.000473684){
+        //     t22.querySelector("input").style.color="red"
+        //     flag=false
+        // }
+        // if(t23.querySelector("input").value!=0.2571){
+        //     t23.querySelector("input").style.color="red"
+        //     flag=false
+        // }
 
-        if(t24.querySelector("input").value!=0.0345){
-            t24.querySelector("input").style.color="red"
-            flag=false
-        }
+        // if(t24.querySelector("input").value!=0.0345){
+        //     t24.querySelector("input").style.color="red"
+        //     flag=false
+        // }
 
-        if(t25.querySelector("input").value!= 13.397){
-            t25.querySelector("input").style.color = "red"
-            flag= true
-        }
+        // if(t25.querySelector("input").value!= 13.397){
+        //     t25.querySelector("input").style.color = "red"
+        //     flag= true
+        // }
 
        
 
-        if(t26.querySelector("input").value!=14.6485){
-            t26.querySelector("input").style.color="red"
-            flag=false
-        }
+        // if(t26.querySelector("input").value!=14.6485){
+        //     t26.querySelector("input").style.color="red"
+        //     flag=false
+        // }
 
-        if(t27.querySelector("input").value!=0.00045){
-            t27.querySelector("input").style.color="red"
-            flag=false
-        }
+        // if(t27.querySelector("input").value!=0.00045){
+        //     t27.querySelector("input").style.color="red"
+        //     flag=false
+        // }
 
 
-        if(t28.querySelector("input").value!=0.2667){
-            t28.querySelector("input").style.color="red"
-            flag=false
-        }
+        // if(t28.querySelector("input").value!=0.2667){
+        //     t28.querySelector("input").style.color="red"
+        //     flag=false
+        // }
 
-        if(t29.querySelector("input").value!=0.0550){
-            t29.querySelector("input").style.color="red"
-            flag=false
-        }
-        if(t30.querySelector("input").value!=20.612){
-            t30.querySelector("input").style.color="red"
-            flag=false
-        }
+        // if(t29.querySelector("input").value!=0.0550){
+        //     t29.querySelector("input").style.color="red"
+        //     flag=false
+        // }
+        // if(t30.querySelector("input").value!=20.612){
+        //     t30.querySelector("input").style.color="red"
+        //     flag=false
+        // }
 
-        if(t31.querySelector("input").value!=20.5751){
-            t31.querySelector("input").style.color="red"
-            flag=false
-        }
+        // if(t31.querySelector("input").value!=20.5751){
+        //     t31.querySelector("input").style.color="red"
+        //     flag=false
+        // }
 
-        if(t32.querySelector("input").value!=0.00045 ){
-            t32.querySelector("input").style.color = "red"
-            flag= true
-        }
-        // else{
+        // if(t32.querySelector("input").value!=0.00045 ){
         //     t32.querySelector("input").style.color = "red"
-        //     flag= false
+        //     flag= true
         // }
+        // // else{
+        // //     t32.querySelector("input").style.color = "red"
+        // //     flag= false
+        // // }
 
 
-        if(t33.querySelector("input").value !=0.2769  ){
-            t33.querySelector("input").style.color = "red"
-            flag= true
-        }
-        // else{
+        // if(t33.querySelector("input").value !=0.2769  ){
         //     t33.querySelector("input").style.color = "red"
-        //     flag= false
+        //     flag= true
+        // }
+        // // else{
+        // //     t33.querySelector("input").style.color = "red"
+        // //     flag= false
+        // // }
+
+        // if(t34.querySelector("input").value!=0.0772){
+        //     t34.querySelector("input").style.color="red"
+        //     flag=false
         // }
 
-        if(t34.querySelector("input").value!=0.0772){
-            t34.querySelector("input").style.color="red"
-            flag=false
-        }
+        // if(t35.querySelector("input").value!=27.879){
+        //     t35.querySelector("input").style.color="red"
+        //     flag=false
+        // }
 
-        if(t35.querySelector("input").value!=27.879){
-            t35.querySelector("input").style.color="red"
-            flag=false
-        }
+        // if(t36.querySelector("input").value!=26.5016){
+        //     t36.querySelector("input").style.color="red"
+        //     flag=false
+        // }
+        // if(t37.querySelector("input").value!=0.000428571){
+        //     t37.querySelector("input").style.color="red"
+        //     flag=false
+        // }
 
-        if(t36.querySelector("input").value!=26.5016){
-            t36.querySelector("input").style.color="red"
-            flag=false
-        }
-        if(t37.querySelector("input").value!=0.000428571){
-            t37.querySelector("input").style.color="red"
-            flag=false
-        }
+        // if(t38.querySelector("input").value!=0.3429){
+        //     t38.querySelector("input").style.color="red"
+        //     flag=false
+        // }
+        // if(t39.querySelector("input").value!=0.0947){
+        //     t39.querySelector("input").style.color="red"
+        //     flag=false
+        // }
 
-        if(t38.querySelector("input").value!=0.3429){
-            t38.querySelector("input").style.color="red"
-            flag=false
-        }
-        if(t39.querySelector("input").value!=0.0947){
-            t39.querySelector("input").style.color="red"
-            flag=false
-        }
-
-        if(t40.querySelector("input").value!=27.623){
-            t40.querySelector("input").style.color = "red"
-            flag= true
-        }
+        // if(t40.querySelector("input").value!=27.623){
+        //     t40.querySelector("input").style.color = "red"
+        //     flag= true
+        // }
         // else{
         //     t40.querySelector("input").style.color = "red"
         //     flag= false
