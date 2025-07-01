@@ -6,7 +6,7 @@
       "answers": {
         "a": "Remains constant with increase in pressure",
         "b": "Decrease with increase in pressure",
-        "c": "Decrease with increase in pressure",
+        "c": "Increase with decrease in pressure",
         "d": "unpredictable"
       },
       "explanations": {
@@ -38,7 +38,7 @@
     {
       "question": "3) Which one of the following is not a positive displacement pump?",
       "answers": {
-        "a": "Vane Pumpanswer1",
+        "a": "Vane Pump",
         "b": "Gear pump",
         "c": "Centrifugal pump",
         "d": "Screw pump"
