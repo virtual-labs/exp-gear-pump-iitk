@@ -8,7 +8,7 @@ The driver gear is connected to the prime mover. It rotates using power from the
 <b>	Driven Gear or Idle Gear</b><br>
 The driven gear is forged with the drive gear, and the driver rotates the gear.<br><br>
 <b>	Casing</b><br>
-Both the driver gear & the driven gear are packed inside the casing of the gear pumps. It prevents the splashing of the fluid to the surroundings and helps to discharge the fluid. Casing plays an important as the clearance between the teeth of the gears and casing wall decides the discharge pressure. Clearnce may be of the order of 10 microns.It also acts as a safeguard in the case of an accident.<br><br>
+Both the driver gear & the driven gear are packed inside the casing of the gear pumps. It prevents the splashing of the fluid to the surroundings and helps to discharge the fluid. Casing plays an important as the clearance between the teeth of the gears and casing wall decides the discharge pressure. Clearance may be of the order of 10 microns. It also acts as a safeguard in the case of an accident.<br><br>
 <b>	Inlet or suction Side </b><br>
 This is the section in the gear pump through which fluid enters the gear pump. The low-pressure liquid enters the pump from the inlet section.<br><br>
 <b>Outlet or Discharge Side</b><br>
