@@ -2,35 +2,167 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1) A gear pump uses ___________:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Pistons",
+        "b": "Buckets",
+        "c": "Meshing of gears",
+        "d": "Crank shaft"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is meshing of gears. A gear pump operates by using the interlocking of gears to move fluid. As the gears rotate, they create a vacuum that draws fluid into the pump and then displaces it by the meshing of the gears, pushing it out through the outlet.",
+        "b": "The correct answer is meshing of gears. A gear pump operates by using the interlocking of gears to move fluid. As the gears rotate, they create a vacuum that draws fluid into the pump and then displaces it by the meshing of the gears, pushing it out through the outlet.",
+        "c": "The correct answer is meshing of gears. A gear pump operates by using the interlocking of gears to move fluid. As the gears rotate, they create a vacuum that draws fluid into the pump and then displaces it by the meshing of the gears, pushing it out through the outlet.",
+        "d": "The correct answer is meshing of gears. A gear pump operates by using the interlocking of gears to move fluid. As the gears rotate, they create a vacuum that draws fluid into the pump and then displaces it by the meshing of the gears, pushing it out through the outlet."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2) The fundamental significance of all the turbomachinery is _______:",
+      "answers": {
+        "a": "Heat conservation",
+        "b": "Mass conservation",
+        "c": "Momentum conservation",
+        "d": "Energy conservation"
+      },
+      "explanations": {
+        "a": "The correct answer is momentum conservation. Turbomachinery, which includes devices like turbines, compressors, and pumps, operates based on the principle of momentum conservation. This principle states that the momentum of a fluid is conserved as it interacts with the machinery, allowing the transfer of energy between the fluid and the mechanical components.",
+        "b": "The correct answer is momentum conservation. Turbomachinery, which includes devices like turbines, compressors, and pumps, operates based on the principle of momentum conservation. This principle states that the momentum of a fluid is conserved as it interacts with the machinery, allowing the transfer of energy between the fluid and the mechanical components.",
+        "c": "The correct answer is momentum conservation. Turbomachinery, which includes devices like turbines, compressors, and pumps, operates based on the principle of momentum conservation. This principle states that the momentum of a fluid is conserved as it interacts with the machinery, allowing the transfer of energy between the fluid and the mechanical components.",
+        "d": "The correct answer is momentum conservation. Turbomachinery, which includes devices like turbines, compressors, and pumps, operates based on the principle of momentum conservation. This principle states that the momentum of a fluid is conserved as it interacts with the machinery, allowing the transfer of energy between the fluid and the mechanical components."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3) Most widely used pump for viscous fluids:",
+      "answers": {
+        "a": "Gear pump",
+        "b": "Centrifugal pump",
+        "c": "Froth pump",
+        "d": "Airlift pump"
+      },
+      "explanations": {
+        "a": "The correct answer is gear pump. Gear pumps are highly effective for pumping viscous fluids due to their positive displacement mechanism, which ensures a consistent flow rate regardless of the fluid's viscosity. They can handle thick and sticky fluids without significant loss of efficiency.",
+        "b": "The correct answer is gear pump. Gear pumps are highly effective for pumping viscous fluids due to their positive displacement mechanism, which ensures a consistent flow rate regardless of the fluid's viscosity. They can handle thick and sticky fluids without significant loss of efficiency.",
+        "c": "The correct answer is gear pump. Gear pumps are highly effective for pumping viscous fluids due to their positive displacement mechanism, which ensures a consistent flow rate regardless of the fluid's viscosity. They can handle thick and sticky fluids without significant loss of efficiency.",
+        "d": "The correct answer is gear pump. Gear pumps are highly effective for pumping viscous fluids due to their positive displacement mechanism, which ensures a consistent flow rate regardless of the fluid's viscosity. They can handle thick and sticky fluids without significant loss of efficiency."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "4) Gear pumps are mainly used in chemical installations because they pump:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "High density liquid",
+        "b": "Highly viscous liquid",
+        "c": "High temperature liquid",
+        "d": "Highly reactive liquids"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is highly viscous liquid. In chemical installations, gear pumps are preferred because they can effectively handle highly viscous liquids, ensuring a steady and reliable flow necessary for various chemical processes.",
+        "b": "The correct answer is highly viscous liquid. In chemical installations, gear pumps are preferred because they can effectively handle highly viscous liquids, ensuring a steady and reliable flow necessary for various chemical processes.",
+        "c": "The correct answer is highly viscous liquid. In chemical installations, gear pumps are preferred because they can effectively handle highly viscous liquids, ensuring a steady and reliable flow necessary for various chemical processes.",
+        "d": "The correct answer is highly viscous liquid. In chemical installations, gear pumps are preferred because they can effectively handle highly viscous liquids, ensuring a steady and reliable flow necessary for various chemical processes."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5) Suction is created due to:",
+      "answers": {
+        "a": "High pressure",
+        "b": "Atmospheric pressure",
+        "c": "Low pressure",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "The correct answer is low pressure. Suction is created in a pump when the pressure at the inlet is reduced below the atmospheric pressure, causing the fluid to be drawn into the pump. This low-pressure region is typically created by the motion of the pump's mechanical components, such as gears in a gear pump.",
+        "b": "The correct answer is low pressure. Suction is created in a pump when the pressure at the inlet is reduced below the atmospheric pressure, causing the fluid to be drawn into the pump. This low-pressure region is typically created by the motion of the pump's mechanical components, such as gears in a gear pump.",
+        "c": "The correct answer is low pressure. Suction is created in a pump when the pressure at the inlet is reduced below the atmospheric pressure, causing the fluid to be drawn into the pump. This low-pressure region is typically created by the motion of the pump's mechanical components, such as gears in a gear pump.",
+        "d": "The correct answer is low pressure. Suction is created in a pump when the pressure at the inlet is reduced below the atmospheric pressure, causing the fluid to be drawn into the pump. This low-pressure region is typically created by the motion of the pump's mechanical components, such as gears in a gear pump."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "6) Gear pump is:",
+      "answers": {
+        "a": "Tangential flow pumps",
+        "b": "Submersible pump",
+        "c": "Positive displacement pump",
+        "d": "Negative displacement pump"
+      },
+      "explanations": {
+        "a": "The correct answer is positive displacement pump. Gear pumps are a type of positive displacement pump, which means they move fluid by trapping a fixed amount and forcing (displacing) that trapped volume into the discharge pipe. This provides a consistent flow rate regardless of the pressure against which the pump is operating.",
+        "b": "The correct answer is positive displacement pump. Gear pumps are a type of positive displacement pump, which means they move fluid by trapping a fixed amount and forcing (displacing) that trapped volume into the discharge pipe. This provides a consistent flow rate regardless of the pressure against which the pump is operating.",
+        "c": "The correct answer is positive displacement pump. Gear pumps are a type of positive displacement pump, which means they move fluid by trapping a fixed amount and forcing (displacing) that trapped volume into the discharge pipe. This provides a consistent flow rate regardless of the pressure against which the pump is operating.",
+        "d": "The correct answer is positive displacement pump. Gear pumps are a type of positive displacement pump, which means they move fluid by trapping a fixed amount and forcing (displacing) that trapped volume into the discharge pipe. This provides a consistent flow rate regardless of the pressure against which the pump is operating."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "7) Gear pump has ____________ discharge.",
+      "answers": {
+        "a": "Zero pulsating",
+        "b": "Sinusoidal",
+        "c": "Intermittent",
+        "d": "Linear"
+      },
+      "explanations": {
+        "a": "The correct answer is zero pulsating. Gear pumps deliver a smooth, continuous flow with very minimal pulsation, making them suitable for applications requiring a steady discharge without fluctuations.",
+        "b": "The correct answer is zero pulsating. Gear pumps deliver a smooth, continuous flow with very minimal pulsation, making them suitable for applications requiring a steady discharge without fluctuations.",
+        "c": "The correct answer is zero pulsating. Gear pumps deliver a smooth, continuous flow with very minimal pulsation, making them suitable for applications requiring a steady discharge without fluctuations.",
+        "d": "The correct answer is zero pulsating. Gear pumps deliver a smooth, continuous flow with very minimal pulsation, making them suitable for applications requiring a steady discharge without fluctuations."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "8) Gear pumps transfer _____________ :",
+      "answers": {
+        "a": "Pressure",
+        "b": "Speed",
+        "c": "Fluid",
+        "d": "Power"
+      },
+      "explanations": {
+        "a": "The correct answer is fluid. The primary function of gear pumps is to transfer fluid from one place to another by the mechanical action of the gears.",
+        "b": "The correct answer is fluid. The primary function of gear pumps is to transfer fluid from one place to another by the mechanical action of the gears.",
+        "c": "The correct answer is fluid. The primary function of gear pumps is to transfer fluid from one place to another by the mechanical action of the gears.",
+        "d": "The correct answer is fluid. The primary function of gear pumps is to transfer fluid from one place to another by the mechanical action of the gears."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "9) Gear pump does not require priming:",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      "explanations": {
+        "a": "The correct answer is true. Gear pumps are self-priming, meaning they can start pumping fluid without needing to be filled with fluid beforehand, making them convenient and easy to use in various applications.",
+        "b": "The correct answer is true. Gear pumps are self-priming, meaning they can start pumping fluid without needing to be filled with fluid beforehand, making them convenient and easy to use in various applications."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "10) At inlet of Gear pump, suction pressure is created by:",
+      "answers": {
+        "a": "Shaft power",
+        "b": "Thermal gradient",
+        "c": "Rotation of gears",
+        "d": "Nozzle"
+      },
+      "explanations": {
+        "a": "The correct answer is rotation of gears. The rotation of the gears creates a low-pressure area at the inlet of the pump, which causes fluid to be drawn into the pump from the reservoir.",
+        "b": "The correct answer is rotation of gears. The rotation of the gears creates a low-pressure area at the inlet of the pump, which causes fluid to be drawn into the pump from the reservoir.",
+        "c": "The correct answer is rotation of gears. The rotation of the gears creates a low-pressure area at the inlet of the pump, which causes fluid to be drawn into the pump from the reservoir.",
+        "d": "The correct answer is rotation of gears. The rotation of the gears creates a low-pressure area at the inlet of the pump, which causes fluid to be drawn into the pump from the reservoir."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
