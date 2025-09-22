@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1) A gear pump uses <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>.",
+      "question": "“1.” A gear pump uses <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>.",
       "answers": {
         "a": "pistons",
         "b": "buckets",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "2) The fundamental significance of all the turbomachinery is:",
+      "question": "“2.” The fundamental significance of all the turbomachinery is:",
       "answers": {
         "a": "Heat conservation",
         "b": "Mass conservation",
@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "3) Most widely used pump for viscous fluids is:",
+      "question": "“3.” Most widely used pump for viscous fluids is:",
       "answers": {
         "a": "Gear pump",
         "b": "Centrifugal pump",
@@ -53,7 +53,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "4) Gear pumps are mainly used in chemical installations because they pump:",
+      "question": "“4.” Gear pumps are mainly used in chemical installations because they pump:",
       "answers": {
         "a": "High density liquid",
         "b": "Highly viscous liquid",
@@ -70,7 +70,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "5) Suction is created due to:",
+      "question": "“5.” Suction is created due to:",
       "answers": {
         "a": "High pressure",
         "b": "Atmospheric pressure",
@@ -87,7 +87,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "6) Gear pump is:",
+      "question": "“6.” Gear pump is:",
       "answers": {
         "a": "Tangential flow pumps",
         "b": "Submersible pump",
@@ -104,7 +104,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "7) Gear pump has <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> discharge.",
+      "question": "“7.” Gear pump has <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> discharge.",
       "answers": {
         "a": "zero pulsating",
         "b": "sinusoidal",
@@ -121,7 +121,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "8) Gear pumps primarily transfer:",
+      "question": "“8.” Gear pumps primarily transfer:",
       "answers": {
         "a": "Pressure",
         "b": "Speed",
@@ -138,7 +138,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "9) Gear pump does not require priming:",
+      "question": "“9.” Gear pump does not require priming:",
       "answers": {
         "a": "True",
         "b": "False"
@@ -151,7 +151,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "10) At inlet of Gear pump, suction pressure is created by:",
+      "question": "“10.” At inlet of Gear pump, suction pressure is created by:",
       "answers": {
         "a": "Shaft power",
         "b": "Thermal gradient",

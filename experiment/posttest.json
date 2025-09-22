@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1) Flow rate in gear pump:",
+      "question": "“1.” Flow rate in gear pump:",
       "answers": {
         "a": "Remains constant with increase in pressure",
         "b": "Decreases with increase in pressure",
@@ -10,16 +10,16 @@
         "d": "unpredictable"
       },
       "explanations": {
-        "a": "The correct answer is “Remains constant with increase in pressure”. Gear pumps are positive displacement pumps, which means their flow rate remains relatively constant regardless of the pressure increase. This makes them highly reliable for applications requiring steady flow rates",
-        "b": "The correct answer is “Remains constant with increase in pressure”. Gear pumps are positive displacement pumps, which means their flow rate remains relatively constant regardless of the pressure increase. This makes them highly reliable for applications requiring steady flow rates",
-        "c": "The correct answer is “Remains constant with increase in pressure”. Gear pumps are positive displacement pumps, which means their flow rate remains relatively constant regardless of the pressure increase. This makes them highly reliable for applications requiring steady flow rates",
-        "d": "The correct answer is “Remains constant with increase in pressure”. Gear pumps are positive displacement pumps, which means their flow rate remains relatively constant regardless of the pressure increase. This makes them highly reliable for applications requiring steady flow rates"
+        "a": "The correct answer is “Remains constant with increase in pressure”. Gear pumps are positive displacement pumps, which means their flow rate remains relatively constant regardless of the pressure increase. This makes them highly reliable for applications requiring steady flow rates.",
+        "b": "The correct answer is “Remains constant with increase in pressure”. Gear pumps are positive displacement pumps, which means their flow rate remains relatively constant regardless of the pressure increase. This makes them highly reliable for applications requiring steady flow rates.",
+        "c": "The correct answer is “Remains constant with increase in pressure”. Gear pumps are positive displacement pumps, which means their flow rate remains relatively constant regardless of the pressure increase. This makes them highly reliable for applications requiring steady flow rates.",
+        "d": "The correct answer is “Remains constant with increase in pressure”. Gear pumps are positive displacement pumps, which means their flow rate remains relatively constant regardless of the pressure increase. This makes them highly reliable for applications requiring steady flow rates."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "2) The positive displacement pumps work on this principle:",
+      "question": "“2.” The positive displacement pumps work on this principle:",
       "answers": {
         "a": "Liquid has dynamic action",
         "b": "Liquid is discharged due to the positive displacement ",
@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "3) Which one of the following is not a positive displacement pump?",
+      "question": "“3.” Which one of the following is not a positive displacement pump?",
       "answers": {
         "a": "Vane Pump",
         "b": "Gear pump",
@@ -53,7 +53,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "4) Gear pump is most suitable to pump <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>:",
+      "question": "“4.” Gear pump is most suitable to pump <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>.",
       "answers": {
         "a": "paint",
         "b": "water",
@@ -70,7 +70,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "5) Rotation of gears in internal gear pump is in <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>.",
+      "question": "“5.” Rotation of gears in internal gear pump is in <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>.",
       "answers": {
         "a": "independent of each other",
         "b": "opposite direction",
@@ -87,7 +87,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "6) Rotation of gears in external gear pump is in <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>.",
+      "question": "“6.” Rotation of gears in external gear pump is in <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>.",
       "answers": {
         "a": "independent of each other",
         "b": "opposite direction",
@@ -104,7 +104,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "7) Internal leakage in internal gear pump is caused due to:",
+      "question": "“7.” Internal leakage in internal gear pump is caused due to:",
       "answers": {
         "a": "Less tolerance level between the meshing surfaces",
         "b": "More tolerance level between the meshing surfaces",
@@ -121,7 +121,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "8) Relation between pressure and overall efficiency for a gear pump is:",
+      "question": "“8.” Relation between pressure and overall efficiency for a gear pump is:",
       "answers": {
         "a": "Pressure increases, overall efficiency decreases",
         "b": "Pressure increases, overall efficiency increases",
@@ -138,7 +138,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "9) Continuous discharge of liquid is achieved in gear pump by:",
+      "question": "“9.” Continuous discharge of liquid is achieved in gear pump by:",
       "answers": {
         "a": "Increasing diameter of gears",
         "b": "Decreasing size of gears",
@@ -155,7 +155,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "10) How does the fluid flow in internal gear pump?",
+      "question": "“10.” How does the fluid flow in internal gear pump?",
       "answers": {
         "a": "Fluid  enters the suction side between rotor, which is a small exterior gear and idler which is a large interior gear",
         "b": "Fluid  enters the suction side between rotor and idler which rotate in different directions",
